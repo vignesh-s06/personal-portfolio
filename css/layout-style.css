@@ -1,0 +1,123 @@
+.header {
+  background-color: #313c4e;
+  padding: 20px;
+}
+.container {
+  width: 960px;
+  margin: 0px auto;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.flex-container {
+  display: flex;
+}
+.sb {
+  justify-content: space-between;
+}
+.left-item h1 {
+  color: white;
+  font-size: 45px;
+  padding-bottom: 3px;
+}
+.left-item h4 {
+  color: #418f93;
+  font-size: 30px;
+}
+.left-item p {
+  color: white;
+  font-size: 18px;
+  padding: 10px 0px;
+  width: 88%;
+}
+.image {
+  padding: 20px;
+}
+.image img {
+  border-radius: 100%;
+  width: 103px;
+  height: 96px;
+}
+.contacts {
+  padding: 15px;
+  background-color: #222a33;
+}
+.center {
+  justify-content: center;
+}
+.contacts a {
+  color: white;
+  padding: 30px;
+}
+.col82 {
+  width: 80%;
+}
+.col12 {
+  width: 15%;
+}
+.se {
+  justify-content: space-between;
+}
+.sa{
+  justify-content: space-around;
+}
+.col48 {
+  width: 48%;
+}
+.content-section h2 {
+  font-weight: bold;
+  color: #449399;
+  font-size: 20px;
+  text-decoration: underline;
+  padding-bottom: 8px;
+  padding-top: 3px;
+}
+.content-section h3 {
+  padding-bottom: 2px;
+  font-weight: bold;
+  font-size: 18px;
+}
+.content-section p {
+  font-size: 17px;
+}
+.sub-highlight {
+  font-style: italic;
+  color: skyblue;
+  font-size: 12px;
+  display: inline-block;
+}
+ul li {
+  font-size: 14px;
+  list-style: square;
+  list-style-position: inside;
+  padding-bottom: 10px;
+}
+.blocks li {
+  display: inline-block;
+  border: 1px solid white;
+  border-radius: 5px;
+  background-color: #989da6;
+  width: 111px;
+  text-align: center;
+  padding: 10px;
+}
+.sub-highlight-2 {
+  font-style: italic;
+  font-size: 12px;
+  color: #9d9897;
+  display: inline-block;
+  padding-bottom: 10px;
+}
+.blocks-1 li{
+    border: 2px solid #989da6;
+    border-radius: 5px;
+    display: inline-block;
+    padding: 10px;
+}
+.main-section{
+  padding: 10px;
+}
+.blocks{
+  padding-bottom: 10px;
+}
+.highlight-1 .sub-highlight{
+padding-bottom: 25px;
+}
